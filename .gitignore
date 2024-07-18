@@ -1,0 +1,68 @@
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Flask specific
+instance/
+*.sqlite
+*.sqlite3
+instance/
+db.sqlite3
+db.sqlite
+
+# Editor specific
+.vscode/
+.idea/
+*.swp
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio specific
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.VC.db
+.vscode/
+
+# Pytest
+.coverage
+.tox
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pydub
+temp_audio
+
+# Environments
+.env
+*.env
+
+# Flask extension
+*.pid
+instance/
+.venv/
