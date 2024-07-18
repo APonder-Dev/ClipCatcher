@@ -3,7 +3,11 @@ from pytube import YouTube
 from pydub import AudioSegment
 import os
 
+# Import the configuration class
+from instance.config import DevelopmentConfig  # Use the appropriate config class here
+
 app = Flask(__name__)
+app.config.from_object(DevelopmentConfig)  # Use the appropriate config class here
 
 @app.route('/')
 def index():
@@ -30,4 +34,4 @@ def download():
     return send_file(output_path, as_attachment=True, attachment_filename=os.path.basename(output_path))
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
