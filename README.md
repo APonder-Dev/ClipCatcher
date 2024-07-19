@@ -1,6 +1,6 @@
 # ClipCatcher
 
-![Logo](https://example.com/path_to_logo_image)  <!-- Replace with actual path to your logo -->
+<!--![Logo](https://example.com/path_to_logo_image) Replace with actual path to your logo -->
 
 **ClipCatcher** is a powerful and user-friendly tool for downloading YouTube videos and audio clips. Whether you need MP3s or MP4s, ClipCatcher simplifies the process with a modern and intuitive interface.
 
@@ -13,8 +13,8 @@
 
 ## Screenshots
 
-![Screenshot1](https://example.com/path_to_screenshot1)  <!-- Replace with actual path to your screenshot -->
-![Screenshot2](https://example.com/path_to_screenshot2)  <!-- Replace with actual path to your screenshot -->
+<!-- ![Screenshot1](https://example.com/path_to_screenshot1)  Replace with actual path to your screenshot -->
+<!-- ![Screenshot2](https://example.com/path_to_screenshot2)Replace with actual path to your screenshot -->
 
 ## Installation
 
