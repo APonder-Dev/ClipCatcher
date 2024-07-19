@@ -15,9 +15,8 @@ venv.bak/
 instance/
 *.sqlite
 *.sqlite3
-instance/
 db.sqlite3
-db.sqlite
+db.sqlite/
 
 # Editor specific
 .vscode/
@@ -31,13 +30,7 @@ db.sqlite
 Thumbs.db
 ehthumbs.db
 
-# Visual Studio specific
-.vs/
-*.user
-*.userosscache
-*.suo
-*.sln.docstates
-*.VC.db
+# Visual Studio Code specific
 .vscode/
 
 # Pytest
@@ -58,11 +51,55 @@ dmypy.json
 # Pydub
 temp_audio
 
-# Environments
+# Logs
+*.log
+*.tmp
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# Database files
+*.db
+*.sqlite
+
+# Coverage reports
+.coverage
+*.cover
+*.py,cover
+.coverage.*
+
+# Environment configuration
 .env
 *.env
 
-# Flask extension
-*.pid
-instance/
+# Python virtual environments
+env/
+venv/
 .venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
