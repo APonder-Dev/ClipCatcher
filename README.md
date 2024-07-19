@@ -82,6 +82,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you find ClipCatcher useful and would like to support its development, consider making a donation. Your support helps us improve and maintain the project.
 
 [Donate on Ko-fi](https://ko-fi.com/wazupbutrcup)
+[Donate on PayPal](https://www.paypal.com/donate/?business=6TUCF33LPY9K2&no_recurring=0&item_name=Development+and+Coding+Features&currency_code=USD)
 
 ## Contact
 
