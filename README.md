@@ -78,7 +78,7 @@ If you find ClipCatcher helpful and would like to support development:
 
 ## 📬 Contact
 
-📧 Reach out: [Aponder@dev](mailto:Anthony@Aponder.dev)
+📧 Reach out: [aponder.dev](mailto:Anthony@Aponder.dev)
 
 ---
 
